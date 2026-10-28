@@ -18,6 +18,7 @@
 | 4 | input ve print: Kullanıcıyla Konuşan Program | [Yazıyı oku](https://haticeozbolat.com/?p=1055) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/04-input-ve-print.ipynb) |
 | 5 | Koşullar: if, elif, else | [Yazıyı oku](https://haticeozbolat.com/?p=1059) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/05-kosullar-if-elif-else.ipynb) |
 | 6 | Döngüler: for ve while | [Yazıyı oku](https://haticeozbolat.com/?p=1073) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/06-donguler-for-while.ipynb) |
+| 7 | Listeler | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/07-listeler.ipynb) |
 
 Yeni dersler yayımlandıkça bu listeye eklenecek.
 
