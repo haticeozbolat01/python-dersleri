@@ -21,6 +21,7 @@
 | 7 | Listeler | [Yazıyı oku](https://haticeozbolat.com/2026/10/29/listeler-python-dersi-7/) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/07-listeler.ipynb) |
 | 8 | Sözlükler ve Demetler | [Yazıyı oku](https://haticeozbolat.com/2026/10/30/sozlukler-ve-demetler-python-dersi-8/) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/08-sozlukler-ve-demetler.ipynb) |
 | 9 | Fonksiyonlar | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/09-fonksiyonlar.ipynb) |
+| 10 | İlk Mini Proje: Sayı Tahmin Oyunu | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/10-sayi-tahmin-oyunu.ipynb) |
 
 Yeni dersler yayımlandıkça bu listeye eklenecek.
 
