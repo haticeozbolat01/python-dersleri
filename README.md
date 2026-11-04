@@ -22,6 +22,7 @@
 | 8 | Sözlükler ve Demetler | [Yazıyı oku](https://haticeozbolat.com/2026/10/30/sozlukler-ve-demetler-python-dersi-8/) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/08-sozlukler-ve-demetler.ipynb) |
 | 9 | Fonksiyonlar | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/09-fonksiyonlar.ipynb) |
 | 10 | İlk Mini Proje: Sayı Tahmin Oyunu | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/10-sayi-tahmin-oyunu.ipynb) |
+| 11 | String İşlemleri: Metinlerle Çalışmak | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/11-string-islemleri.ipynb) |
 
 Yeni dersler yayımlandıkça bu listeye eklenecek.
 
