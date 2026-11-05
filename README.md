@@ -23,6 +23,7 @@
 | 9 | Fonksiyonlar | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/09-fonksiyonlar.ipynb) |
 | 10 | İlk Mini Proje: Sayı Tahmin Oyunu | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/10-sayi-tahmin-oyunu.ipynb) |
 | 11 | String İşlemleri: Metinlerle Çalışmak | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/11-string-islemleri.ipynb) |
+| 12 | Kümeler ve Liste Üreteçleri | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/12-kumeler-ve-liste-uretecleri.ipynb) |
 
 Yeni dersler yayımlandıkça bu listeye eklenecek.
 
