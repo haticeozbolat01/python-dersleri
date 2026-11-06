@@ -24,6 +24,7 @@
 | 10 | İlk Mini Proje: Sayı Tahmin Oyunu | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/10-sayi-tahmin-oyunu.ipynb) |
 | 11 | String İşlemleri: Metinlerle Çalışmak | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/11-string-islemleri.ipynb) |
 | 12 | Kümeler ve Liste Üreteçleri | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/12-kumeler-ve-liste-uretecleri.ipynb) |
+| 13 | Hata Yönetimi: try ve except | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/13-hata-yonetimi-try-except.ipynb) |
 
 Yeni dersler yayımlandıkça bu listeye eklenecek.
 
