@@ -23,8 +23,9 @@
 | 9 | Fonksiyonlar | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/09-fonksiyonlar.ipynb) |
 | 10 | İlk Mini Proje: Sayı Tahmin Oyunu | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/10-sayi-tahmin-oyunu.ipynb) |
 | 11 | String İşlemleri: Metinlerle Çalışmak | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/11-string-islemleri.ipynb) |
-| 12 | Kümeler ve Liste Üreteçleri | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/12-kumeler-ve-liste-uretecleri.ipynb) |
-| 13 | Hata Yönetimi: try ve except | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/13-hata-yonetimi-try-except.ipynb) |
+| 12 | Kümeler ve Liste Üreteçleri | [Yazıyı oku](https://haticeozbolat.com/2026/11/05/kumeler-ve-liste-uretecleri-python-dersi-12/) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/12-kumeler-ve-liste-uretecleri.ipynb) |
+| 13 | Hata Yönetimi: try ve except | [Yazıyı oku](https://haticeozbolat.com/2026/11/06/hata-yonetimi-try-ve-except-python-dersi-13/) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/13-hata-yonetimi-try-except.ipynb) |
+| 14 | Dosya Okuma ve Yazma | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/14-dosya-okuma-ve-yazma.ipynb) |
 
 Yeni dersler yayımlandıkça bu listeye eklenecek.
 
