@@ -26,6 +26,7 @@
 | 12 | Kümeler ve Liste Üreteçleri | [Yazıyı oku](https://haticeozbolat.com/2026/11/05/kumeler-ve-liste-uretecleri-python-dersi-12/) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/12-kumeler-ve-liste-uretecleri.ipynb) |
 | 13 | Hata Yönetimi: try ve except | [Yazıyı oku](https://haticeozbolat.com/2026/11/06/hata-yonetimi-try-ve-except-python-dersi-13/) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/13-hata-yonetimi-try-except.ipynb) |
 | 14 | Dosya Okuma ve Yazma | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/14-dosya-okuma-ve-yazma.ipynb) |
+| 15 | Modüller ve pip: Hazır Kütüphaneleri Kullanmak | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/15-moduller-ve-pip.ipynb) |
 
 Yeni dersler yayımlandıkça bu listeye eklenecek.
 
