@@ -28,6 +28,7 @@
 | 14 | Dosya Okuma ve Yazma | [Yazıyı oku](https://haticeozbolat.com/2026/11/09/dosya-okuma-ve-yazma-python-dersi-14/) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/14-dosya-okuma-ve-yazma.ipynb) |
 | 15 | Modüller ve pip: Hazır Kütüphaneleri Kullanmak | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/15-moduller-ve-pip.ipynb) |
 | 16 | Mini Proje: Yapılacaklar Listesi Uygulaması | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/16-yapilacaklar-listesi-projesi.ipynb) |
+| 17 | Sınıflar ve Nesneler: OOP'ye Giriş | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/17-siniflar-ve-nesneler-oop.ipynb) |
 
 Yeni dersler yayımlandıkça bu listeye eklenecek.
 
