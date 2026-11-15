@@ -30,6 +30,7 @@
 | 16 | Mini Proje: Yapılacaklar Listesi Uygulaması | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/16-yapilacaklar-listesi-projesi.ipynb) |
 | 17 | Sınıflar ve Nesneler: OOP'ye Giriş | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/17-siniflar-ve-nesneler-oop.ipynb) |
 | 18 | Kalıtım ve Metotlar | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/18-kalitim-ve-metotlar.ipynb) |
+| 19 | Tarih ve Saat İşlemleri: datetime | [Yazıyı oku]([YAZI LİNKİ]) | [![Colab'da Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haticeozbolat01/python-dersleri/blob/main/19-tarih-ve-saat-datetime.ipynb) |
 
 Yeni dersler yayımlandıkça bu listeye eklenecek.
 
